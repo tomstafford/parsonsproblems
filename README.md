@@ -9,6 +9,8 @@ This approach allows beginners to focus on the logic of the code, rather than sy
 
 Created march 2019 for use on the module PSY6422 Data Management and Visualisation
 
+Assumes you will be using Python 3 and the pandas library
+
 # Reference
 
 (origin)
