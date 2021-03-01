@@ -10,7 +10,7 @@ import os #file and folder functions
 import random #randomisation functions
 
 #get list of python scripts in the solutions folder
-filelist=glob.glob(os.path.join('solutions','*.py'))
+filelist=glob.glob(os.path.join('solutions*','*'))
 
 
 #loop through each file
