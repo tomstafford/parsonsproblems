@@ -7,7 +7,7 @@ This approach allows beginners to focus on the logic of the code, rather than sy
 
 # Details
 
-Created march 2019 for use on the module PSY6422 Data Management and Visualisation
+Created march 2019 for use on the module [PSY6422 Data Management and Visualisation](https://tomstafford.github.io/psy6422/). R problems added 2021.
 
 Python problems assume you will be using Python 3 and the pandas library
 
