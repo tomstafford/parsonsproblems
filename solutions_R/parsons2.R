@@ -1,4 +1,4 @@
-# script to draw a sine wave '''
+# script to draw a sine wave 
 library(here) #file location functions
 library(tidyverse) #graphing and wrangling functions
 
